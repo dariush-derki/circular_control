@@ -11,4 +11,4 @@ Python: 3.10+
 
 <img width="1132" height="893" alt="serial_img_ap_3" src="https://github.com/user-attachments/assets/2cf719ea-429c-4f49-b2c1-734547ed88b8" />
 
-<img width="1132" height="893" alt="serial_img_ap_3"  src="https://raw.githubusercontent.com/dariush-derki/circular_control/main/pic_project.png" width="600">
+<img width="600" height="893" alt="pic_project"  src="https://github.com/user-attachments/assets/2cf719ea-429c-4f49-b2c1-734547ed88b8">
