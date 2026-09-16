@@ -5,7 +5,7 @@ Python: 3.10+
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dariush-derki/circular_control/main/pic_project.png" width="600">
+  <img src="https://github.com/dariush-derki/circular_control/blob/main/pic_project.png?raw=true" width="600">
 </p>
 
 
@@ -14,3 +14,5 @@ Python: 3.10+
 <img width="600" height="893" alt="pic_project"  src="https://github.com/user-attachments/assets/2cf719ea-429c-4f49-b2c1-734547ed88b8">
 
 https://github.com/user-attachments/assets/2cf719ea-429c-4f49-b2c1-734547ed88b8
+
+https://github.com/dariush-derki/circular_control/blob/main/pic_project.png?raw=true
