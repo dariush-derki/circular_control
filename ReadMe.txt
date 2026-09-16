@@ -15,4 +15,9 @@ https://github.com/dariush-derki/circular_control/blob/main/pic_project.png
 <img src="file:///E:/data/BANK_PROJECT/py_parctic/gif_circular_button%20py/pic_project.png" width="1117" height="893"/>
 
 
+<p align="center">
+  <img width="600" src="https://github.com/dariush-derki/circular_control/blob/main/pic_project.png" alt="Project Screenshot">
+</p>
+
+
 
