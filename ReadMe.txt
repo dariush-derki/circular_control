@@ -7,4 +7,7 @@ Python: 3.10+
   <img width="600" src="https://raw.githubusercontent.com/dariush-derki/circular_control/main/pic_project.png" alt="Project Screenshot">
 </p>
 
+<img width="600" src="https://raw.githubusercontent.com/dariush-derki/circular_control/main/pic_project.png" alt="Project Screenshot">
+
+
 
